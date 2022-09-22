@@ -107,7 +107,7 @@ namespace VotingPoll
 
                 case 5:
                     pictureBox1.Image = Properties.Resources.C_;
-                    lblQuestion.Text = "Who instructor was the most called on in class?";
+                    lblQuestion.Text = "What instructor was the most called on in class?";
                     button1.Text = "Andrea";
                     button2.Text = "Amoriss";
                     button3.Text = "Morgan";
